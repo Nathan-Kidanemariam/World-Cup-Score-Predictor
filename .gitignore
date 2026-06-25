@@ -1,0 +1,6 @@
+.venv/
+pycache/
+.idea/
+*.pyc
+*.pyo
+future_preidctions_final.csv
